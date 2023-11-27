@@ -10,6 +10,6 @@ In this project, Exploratory Data Analysis is used to uncover patterns, trends, 
 #### Data Visualization:
 In this project, I leverage data visualization to analyze and interpret the dataset. Through a myriad of plotted graphs and charts, I aim to unravel complex relationships, patterns, and trends within the data. These visualizations serve as tools to communicate insights effectively, offering a clear and intuitive representation of the information.
 
-#### Principal Component Analysis
+#### Principal Component Analysis:
 In this project, I implement Principal Component Analysis (PCA) to extract meaningful insights from the dataset. PCA is employed as a dimensionality reduction technique, allowing me to capture the most significant variations in the data while reducing its complexity. Through the application of PCA, I aim to identify key patterns and relationships among variables, simplifying the dataset's representation without compromising crucial information.
  
